@@ -1,5 +1,6 @@
 import React from "react";
 import Container from "../../../hoc/Container";
+import "./ContentWeb.css"
 
 const ContentWeb = () =>{
     return(
